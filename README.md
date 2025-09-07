@@ -1,1 +1,1 @@
-This is my personal blog, it is still under development!
+This is my personal blog.
